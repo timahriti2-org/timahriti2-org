@@ -9,8 +9,9 @@
 
 <url>
   <loc>https://specs.tdex.network</loc>
-  <lastmod>2025-08-19T17:09:57+00:00</lastmod>
-</url>
-
-
+        <lastmod>2025-08-24T18:48:04+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
 </urlset>
